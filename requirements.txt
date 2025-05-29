@@ -1,0 +1,6 @@
+requests
+httpx
+matplotlib
+dvc
+joblib
+xgboost

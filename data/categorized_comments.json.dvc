@@ -1,0 +1,5 @@
+outs:
+- md5: 0fa0cb33267f603745505a6d940fa46a
+  size: 30363207
+  hash: md5
+  path: categorized_comments.json
