@@ -1,0 +1,29 @@
+{"time":"2025-05-30T10:53:37.00662744+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/marco/projects/flawfinder/comments-categorizer-model/wandb/run-20250530_105336-hvxwm974/logs/debug-core.log"}
+{"time":"2025-05-30T10:53:42.016282578+02:00","level":"INFO","msg":"created new stream","id":"hvxwm974"}
+{"time":"2025-05-30T10:53:42.016318318+02:00","level":"INFO","msg":"stream: started","id":"hvxwm974"}
+{"time":"2025-05-30T10:53:42.016337516+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"hvxwm974"}
+{"time":"2025-05-30T10:53:42.016389103+02:00","level":"INFO","msg":"handler: started","stream_id":"hvxwm974"}
+{"time":"2025-05-30T10:53:42.016402178+02:00","level":"INFO","msg":"sender: started","stream_id":"hvxwm974"}
+{"time":"2025-05-30T10:53:42.306865946+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-30T10:53:42.456607599+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T10:53:42.457107538+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T10:53:42.457127187+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T10:53:42.457129119+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T10:53:42.457130603+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T10:55:48.542754858+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T10:55:48.550874349+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T10:55:49.003169508+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T10:55:49.01056057+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T10:55:49.019528787+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T10:55:49.024700756+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T10:55:49.02531069+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T10:55:49.0322126+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T10:55:49.260680237+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-30T10:55:49.260713999+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-30T10:55:53.371084204+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact hvxwm974_model.json","runtime_seconds":2.251812757,"subtasks":[{"desc":"hvxwm974_model.json","runtime_seconds":1.6103678449999999,"progress":"20.3MB/20.3MB"}]},{"desc":"uploading artifact run-hvxwm974-confusion_matrix_table","runtime_seconds":1.062469143}],"total_operations":2}}
+{"time":"2025-05-30T10:55:54.266818634+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-30T10:55:54.48663546+02:00","level":"INFO","msg":"stream: closing","id":"hvxwm974"}
+{"time":"2025-05-30T10:55:54.486656851+02:00","level":"INFO","msg":"handler: closed","stream_id":"hvxwm974"}
+{"time":"2025-05-30T10:55:54.486662817+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"hvxwm974"}
+{"time":"2025-05-30T10:55:54.486686971+02:00","level":"INFO","msg":"sender: closed","stream_id":"hvxwm974"}
+{"time":"2025-05-30T10:55:54.486704534+02:00","level":"INFO","msg":"stream: closed","id":"hvxwm974"}

@@ -1,0 +1,16 @@
+{"time":"2025-05-30T02:24:50.368977238+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/marco/projects/flawfinder/comments-categorizer-model/wandb/run-20250530_022448-ke68nlxe/logs/debug-core.log"}
+{"time":"2025-05-30T02:24:50.816242854+02:00","level":"INFO","msg":"created new stream","id":"ke68nlxe"}
+{"time":"2025-05-30T02:24:50.816275865+02:00","level":"INFO","msg":"stream: started","id":"ke68nlxe"}
+{"time":"2025-05-30T02:24:50.816319989+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"ke68nlxe"}
+{"time":"2025-05-30T02:24:50.816336827+02:00","level":"INFO","msg":"sender: started","stream_id":"ke68nlxe"}
+{"time":"2025-05-30T02:24:50.816336872+02:00","level":"INFO","msg":"handler: started","stream_id":"ke68nlxe"}
+{"time":"2025-05-30T02:24:51.1352082+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-30T02:28:21.597449569+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-30T02:28:21.597529899+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-30T02:28:22.558153388+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.597024346},{"desc":"uploading config.yaml","runtime_seconds":0.434593502,"progress":"781B/781B"}],"total_operations":2}}
+{"time":"2025-05-30T02:28:22.606640389+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-30T02:28:22.792022905+02:00","level":"INFO","msg":"stream: closing","id":"ke68nlxe"}
+{"time":"2025-05-30T02:28:22.792058142+02:00","level":"INFO","msg":"handler: closed","stream_id":"ke68nlxe"}
+{"time":"2025-05-30T02:28:22.792068146+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ke68nlxe"}
+{"time":"2025-05-30T02:28:22.792155681+02:00","level":"INFO","msg":"sender: closed","stream_id":"ke68nlxe"}
+{"time":"2025-05-30T02:28:22.792174132+02:00","level":"INFO","msg":"stream: closed","id":"ke68nlxe"}

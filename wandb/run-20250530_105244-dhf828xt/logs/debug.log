@@ -1,0 +1,12 @@
+2025-05-30 10:52:44,954 INFO    MainThread:60884 [wandb_init.py:setup_run_log_directory():724] Logging user logs to /home/marco/projects/flawfinder/comments-categorizer-model/wandb/run-20250530_105244-dhf828xt/logs/debug.log
+2025-05-30 10:52:44,954 INFO    MainThread:60884 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to /home/marco/projects/flawfinder/comments-categorizer-model/wandb/run-20250530_105244-dhf828xt/logs/debug-internal.log
+2025-05-30 10:52:44,954 INFO    MainThread:60884 [wandb_init.py:monkeypatch_ipython():643] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7fd19b672540>
+2025-05-30 10:52:44,954 INFO    MainThread:60884 [wandb_init.py:init():852] calling init triggers
+2025-05-30 10:52:44,954 INFO    MainThread:60884 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.1, 'max_depth': 8, 'n_estimators': 200, 'eval_metric': 'logloss', 'use_label_encoder': False, '_wandb': {}}
+2025-05-30 10:52:44,954 INFO    MainThread:60884 [wandb_init.py:init():893] starting backend
+2025-05-30 10:52:44,954 INFO    MainThread:60884 [wandb_init.py:init():897] sending inform_init request
+2025-05-30 10:52:44,954 INFO    MainThread:60884 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-05-30 10:52:44,954 INFO    MainThread:60884 [wandb_init.py:init():907] backend started and connected
+2025-05-30 10:52:44,955 INFO    MainThread:60884 [wandb_run.py:_label_probe_notebook():1376] probe notebook
+2025-05-30 10:52:44,957 INFO    MainThread:60884 [wandb_init.py:init():1005] updated telemetry

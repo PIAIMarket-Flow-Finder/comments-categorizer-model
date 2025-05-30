@@ -1,0 +1,7 @@
+{"time":"2025-05-30T02:02:41.415856219+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/marco/projects/flawfinder/comments-categorizer-model/wandb/run-20250530_020240-ojcpuof6/logs/debug-core.log"}
+{"time":"2025-05-30T02:02:42.168806644+02:00","level":"INFO","msg":"created new stream","id":"ojcpuof6"}
+{"time":"2025-05-30T02:02:42.168853421+02:00","level":"INFO","msg":"stream: started","id":"ojcpuof6"}
+{"time":"2025-05-30T02:02:42.168874528+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"ojcpuof6"}
+{"time":"2025-05-30T02:02:42.168919415+02:00","level":"INFO","msg":"handler: started","stream_id":"ojcpuof6"}
+{"time":"2025-05-30T02:02:42.168923685+02:00","level":"INFO","msg":"sender: started","stream_id":"ojcpuof6"}
+{"time":"2025-05-30T02:02:42.47592563+02:00","level":"INFO","msg":"Starting system monitor"}

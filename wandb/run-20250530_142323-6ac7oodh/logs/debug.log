@@ -1,0 +1,53 @@
+2025-05-30 14:23:23,585 INFO    MainThread:696 [wandb_init.py:setup_run_log_directory():724] Logging user logs to /home/marco/projects/flawfinder/comments-categorizer-model/wandb/run-20250530_142323-6ac7oodh/logs/debug.log
+2025-05-30 14:23:23,586 INFO    MainThread:696 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to /home/marco/projects/flawfinder/comments-categorizer-model/wandb/run-20250530_142323-6ac7oodh/logs/debug-internal.log
+2025-05-30 14:23:23,586 INFO    MainThread:696 [wandb_init.py:monkeypatch_ipython():643] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7efe94d90c20>
+2025-05-30 14:23:23,586 INFO    MainThread:696 [wandb_init.py:init():852] calling init triggers
+2025-05-30 14:23:23,586 INFO    MainThread:696 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.3, 'max_depth': 3, 'num_class': 6, 'n_estimators': 10, 'eval_metric': 'mlogloss', 'use_label_encoder': False, '_wandb': {}}
+2025-05-30 14:23:23,586 INFO    MainThread:696 [wandb_init.py:init():893] starting backend
+2025-05-30 14:23:23,586 INFO    MainThread:696 [wandb_init.py:init():897] sending inform_init request
+2025-05-30 14:23:23,586 INFO    MainThread:696 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-05-30 14:23:23,586 INFO    MainThread:696 [wandb_init.py:init():907] backend started and connected
+2025-05-30 14:23:23,588 INFO    MainThread:696 [wandb_run.py:_label_probe_notebook():1376] probe notebook
+2025-05-30 14:23:23,589 INFO    MainThread:696 [wandb_init.py:init():1005] updated telemetry
+2025-05-30 14:23:23,608 INFO    MainThread:696 [wandb_init.py:init():1029] communicating run to backend with 90.0 second timeout
+2025-05-30 14:23:24,222 INFO    MainThread:696 [wandb_init.py:init():1104] starting run threads in backend
+2025-05-30 14:23:24,355 INFO    MainThread:696 [wandb_run.py:_console_start():2573] atexit reg
+2025-05-30 14:23:24,355 INFO    MainThread:696 [wandb_run.py:_redirect():2421] redirect: wrap_raw
+2025-05-30 14:23:24,355 INFO    MainThread:696 [wandb_run.py:_redirect():2490] Wrapping output streams.
+2025-05-30 14:23:24,356 INFO    MainThread:696 [wandb_run.py:_redirect():2513] Redirects installed.
+2025-05-30 14:23:24,356 INFO    MainThread:696 [wandb_init.py:init():1150] run started, returning control to user process
+2025-05-30 14:23:24,356 INFO    MainThread:696 [wandb_init.py:_post_run_cell_hook():613] [no run ID] resuming backend
+2025-05-30 14:23:24,362 INFO    MainThread:696 [jupyter.py:save_ipynb():401] [no run ID] not saving jupyter notebook
+2025-05-30 14:23:24,362 INFO    MainThread:696 [wandb_init.py:_pre_run_cell_hook():602] [no run ID] pausing backend
+2025-05-30 14:23:24,362 INFO    MainThread:696 [wandb_init.py:_post_run_cell_hook():613] [no run ID] resuming backend
+2025-05-30 14:23:24,369 INFO    MainThread:696 [jupyter.py:save_ipynb():401] [no run ID] not saving jupyter notebook
+2025-05-30 14:23:24,369 INFO    MainThread:696 [wandb_init.py:_pre_run_cell_hook():602] [no run ID] pausing backend
+2025-05-30 14:23:24,370 INFO    MainThread:696 [wandb_init.py:_post_run_cell_hook():613] [no run ID] resuming backend
+2025-05-30 14:23:24,376 INFO    MainThread:696 [jupyter.py:save_ipynb():401] [no run ID] not saving jupyter notebook
+2025-05-30 14:23:24,376 INFO    MainThread:696 [wandb_init.py:_pre_run_cell_hook():602] [no run ID] pausing backend
+2025-05-30 14:23:26,034 INFO    MainThread:696 [wandb_run.py:_config_callback():1436] config_cb None None {'learner': {'generic_param': {'device': 'cuda:0', 'fail_on_invalid_gpu_id': '0', 'n_jobs': '0', 'nthread': '0', 'random_state': '0', 'seed': '0', 'seed_per_iteration': '0', 'validate_parameters': '1'}, 'gradient_booster': {'gbtree_model_param': {'num_parallel_tree': '1', 'num_trees': '0'}, 'gbtree_train_param': {'process_type': 'default', 'tree_method': 'gpu_hist', 'updater': 'grow_gpu_hist', 'updater_seq': 'grow_gpu_hist'}, 'name': 'gbtree', 'specified_updater': False, 'tree_train_param': {'alpha': '0', 'cache_opt': '1', 'colsample_bylevel': '1', 'colsample_bynode': '1', 'colsample_bytree': '1', 'eta': '0.300000012', 'gamma': '0', 'grow_policy': 'depthwise', 'interaction_constraints': '', 'lambda': '1', 'learning_rate': '0.300000012', 'max_bin': '256', 'max_cat_threshold': '64', 'max_cat_to_onehot': '4', 'max_delta_step': '0', 'max_depth': '3', 'max_leaves': '0', 'min_child_weight': '1', 'min_split_loss': '0', 'monotone_constraints': '()', 'refresh_leaf': '1', 'reg_alpha': '0', 'reg_lambda': '1', 'sampling_method': 'uniform', 'sketch_ratio': '2', 'sparse_threshold': '0.20000000000000001', 'subsample': '1'}, 'updater': [{'hist_train_param': {'debug_synchronize': '0', 'extmem_single_page': '0', 'max_cached_hist_node': '18446744073709551615'}, 'name': 'grow_gpu_hist'}]}, 'learner_model_param': {'base_score': '5E-1', 'boost_from_average': '1', 'num_class': '6', 'num_feature': '768', 'num_target': '1'}, 'learner_train_param': {'booster': 'gbtree', 'disable_default_eval_metric': '0', 'multi_strategy': 'one_output_per_tree', 'objective': 'multi:softprob'}, 'metrics': [{'name': 'mlogloss'}], 'objective': {'name': 'multi:softprob', 'softmax_multiclass_param': {'num_class': '6'}}}, 'version': [3, 0, 2]}
+2025-05-30 14:23:26,770 INFO    MainThread:696 [wandb_run.py:_config_callback():1436] config_cb ('_wandb', 'visualize', 'Feature Importance') {'panel_type': 'Vega2', 'panel_config': {'panelDefId': 'wandb/bar/v0', 'fieldSettings': {'label': 'Feature', 'value': 'Importance'}, 'stringSettings': {'title': 'Feature Importance'}, 'transform': {'name': 'tableWithLeafColNames'}, 'userQuery': {'queryFields': [{'name': 'runSets', 'args': [{'name': 'runSets', 'value': '${runSets}'}], 'fields': [{'name': 'id', 'fields': []}, {'name': 'name', 'fields': []}, {'name': '_defaultColorIndex', 'fields': []}, {'name': 'summaryTable', 'args': [{'name': 'tableKey', 'value': 'Feature Importance_table'}], 'fields': []}]}]}}} None
+2025-05-30 14:23:26,990 INFO    MainThread:696 [wandb_init.py:_post_run_cell_hook():613] [no run ID] resuming backend
+2025-05-30 14:23:26,998 INFO    MainThread:696 [jupyter.py:save_ipynb():401] [no run ID] not saving jupyter notebook
+2025-05-30 14:23:26,998 INFO    MainThread:696 [wandb_init.py:_pre_run_cell_hook():602] [no run ID] pausing backend
+2025-05-30 14:23:27,157 INFO    MainThread:696 [wandb_init.py:_post_run_cell_hook():613] [no run ID] resuming backend
+2025-05-30 14:23:27,163 INFO    MainThread:696 [jupyter.py:save_ipynb():401] [no run ID] not saving jupyter notebook
+2025-05-30 14:23:27,163 INFO    MainThread:696 [wandb_init.py:_pre_run_cell_hook():602] [no run ID] pausing backend
+2025-05-30 14:23:27,164 INFO    MainThread:696 [wandb_init.py:_post_run_cell_hook():613] [no run ID] resuming backend
+2025-05-30 14:23:27,172 INFO    MainThread:696 [jupyter.py:save_ipynb():401] [no run ID] not saving jupyter notebook
+2025-05-30 14:23:27,172 INFO    MainThread:696 [wandb_init.py:_pre_run_cell_hook():602] [no run ID] pausing backend
+2025-05-30 14:23:27,173 INFO    MainThread:696 [wandb_init.py:_post_run_cell_hook():613] [no run ID] resuming backend
+2025-05-30 14:23:27,181 INFO    MainThread:696 [jupyter.py:save_ipynb():401] [no run ID] not saving jupyter notebook
+2025-05-30 14:23:27,181 INFO    MainThread:696 [wandb_init.py:_pre_run_cell_hook():602] [no run ID] pausing backend
+2025-05-30 14:23:27,191 INFO    MainThread:696 [wandb_run.py:_config_callback():1436] config_cb ('_wandb', 'visualize', 'confusion_matrix') {'panel_type': 'Vega2', 'panel_config': {'panelDefId': 'wandb/confusion_matrix/v1', 'fieldSettings': {'Actual': 'Actual', 'Predicted': 'Predicted', 'nPredictions': 'nPredictions'}, 'stringSettings': {'title': 'Confusion Matrix Curve'}, 'transform': {'name': 'tableWithLeafColNames'}, 'userQuery': {'queryFields': [{'name': 'runSets', 'args': [{'name': 'runSets', 'value': '${runSets}'}], 'fields': [{'name': 'id', 'fields': []}, {'name': 'name', 'fields': []}, {'name': '_defaultColorIndex', 'fields': []}, {'name': 'summaryTable', 'args': [{'name': 'tableKey', 'value': 'confusion_matrix_table'}], 'fields': []}]}]}}} None
+2025-05-30 14:23:27,383 INFO    MainThread:696 [wandb_run.py:_finish():2321] finishing run michelmortier1213-hes-so-gen-ve/comments-categorizer/6ac7oodh
+2025-05-30 14:23:27,383 INFO    MainThread:696 [jupyter.py:save_history():477] not saving jupyter history
+2025-05-30 14:23:27,383 INFO    MainThread:696 [jupyter.py:save_ipynb():401] not saving jupyter notebook
+2025-05-30 14:23:27,383 INFO    MainThread:696 [wandb_init.py:_jupyter_teardown():628] cleaning up jupyter logic
+2025-05-30 14:23:27,383 INFO    MainThread:696 [wandb_run.py:_atexit_cleanup():2538] got exitcode: 0
+2025-05-30 14:23:27,383 INFO    MainThread:696 [wandb_run.py:_restore():2520] restore
+2025-05-30 14:23:27,383 INFO    MainThread:696 [wandb_run.py:_restore():2526] restore done
+2025-05-30 14:23:29,461 INFO    MainThread:696 [wandb_run.py:_footer_history_summary_info():4188] rendering history
+2025-05-30 14:23:29,461 INFO    MainThread:696 [wandb_run.py:_footer_history_summary_info():4220] rendering summary
+2025-05-30 14:23:29,462 INFO    MainThread:696 [wandb_run.py:_footer_sync_info():4149] logging synced files

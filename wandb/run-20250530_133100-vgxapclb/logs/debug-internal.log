@@ -1,0 +1,16 @@
+{"time":"2025-05-30T13:31:04.547787448+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/marco/projects/flawfinder/comments-categorizer-model/wandb/run-20250530_133100-vgxapclb/logs/debug-core.log"}
+{"time":"2025-05-30T13:31:05.523507067+02:00","level":"INFO","msg":"created new stream","id":"vgxapclb"}
+{"time":"2025-05-30T13:31:05.523540587+02:00","level":"INFO","msg":"stream: started","id":"vgxapclb"}
+{"time":"2025-05-30T13:31:05.52356955+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"vgxapclb"}
+{"time":"2025-05-30T13:31:05.523610198+02:00","level":"INFO","msg":"sender: started","stream_id":"vgxapclb"}
+{"time":"2025-05-30T13:31:05.523591145+02:00","level":"INFO","msg":"handler: started","stream_id":"vgxapclb"}
+{"time":"2025-05-30T13:31:05.838238864+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-30T13:35:01.416524222+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-30T13:35:01.416614263+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-30T13:35:02.432123396+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact vgxapclb_model.json","runtime_seconds":2.472967582,"subtasks":[{"desc":"vgxapclb_model.json","runtime_seconds":1.699643049,"progress":"17.3MB/37.1MB"}]},{"desc":"uploading artifact run-vgxapclb-confusion_matrix_table","runtime_seconds":1.018893959}],"total_operations":2}}
+{"time":"2025-05-30T13:35:04.060919085+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-30T13:35:04.264941303+02:00","level":"INFO","msg":"stream: closing","id":"vgxapclb"}
+{"time":"2025-05-30T13:35:04.264977916+02:00","level":"INFO","msg":"handler: closed","stream_id":"vgxapclb"}
+{"time":"2025-05-30T13:35:04.264986955+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"vgxapclb"}
+{"time":"2025-05-30T13:35:04.265006145+02:00","level":"INFO","msg":"sender: closed","stream_id":"vgxapclb"}
+{"time":"2025-05-30T13:35:04.26505435+02:00","level":"INFO","msg":"stream: closed","id":"vgxapclb"}

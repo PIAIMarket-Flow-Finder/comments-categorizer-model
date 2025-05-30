@@ -1,0 +1,13 @@
+{"time":"2025-05-30T11:31:55.131353825+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/marco/projects/flawfinder/comments-categorizer-model/wandb/run-20250530_113155-0x3sayzu/logs/debug-core.log"}
+{"time":"2025-05-30T11:31:56.988646799+02:00","level":"INFO","msg":"created new stream","id":"0x3sayzu"}
+{"time":"2025-05-30T11:31:56.98871224+02:00","level":"INFO","msg":"stream: started","id":"0x3sayzu"}
+{"time":"2025-05-30T11:31:56.988866608+02:00","level":"INFO","msg":"handler: started","stream_id":"0x3sayzu"}
+{"time":"2025-05-30T11:31:56.988966561+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"0x3sayzu"}
+{"time":"2025-05-30T11:31:56.989409613+02:00","level":"INFO","msg":"sender: started","stream_id":"0x3sayzu"}
+{"time":"2025-05-30T11:31:57.245370525+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-30T11:31:57.7018693+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:31:57.754723658+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T11:31:59.495642127+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:31:59.496397816+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T11:32:01.419496515+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:32:01.532384443+02:00","level":"INFO","msg":"Resuming system monitor"}

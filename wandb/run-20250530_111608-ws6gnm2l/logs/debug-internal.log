@@ -1,0 +1,38 @@
+{"time":"2025-05-30T11:16:09.006010129+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/marco/projects/flawfinder/comments-categorizer-model/wandb/run-20250530_111608-ws6gnm2l/logs/debug-core.log"}
+{"time":"2025-05-30T11:16:10.978689597+02:00","level":"INFO","msg":"created new stream","id":"ws6gnm2l"}
+{"time":"2025-05-30T11:16:10.978804025+02:00","level":"INFO","msg":"stream: started","id":"ws6gnm2l"}
+{"time":"2025-05-30T11:16:10.978923276+02:00","level":"INFO","msg":"handler: started","stream_id":"ws6gnm2l"}
+{"time":"2025-05-30T11:16:10.978923106+02:00","level":"INFO","msg":"sender: started","stream_id":"ws6gnm2l"}
+{"time":"2025-05-30T11:16:10.979120712+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"ws6gnm2l"}
+{"time":"2025-05-30T11:16:11.278486429+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-30T11:16:17.431338568+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:16:17.485407347+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T11:17:06.41280599+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:17:06.416333678+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T11:17:07.130653927+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:17:07.132904194+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T11:17:17.320766643+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:17:17.367211817+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T11:17:17.889535876+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:17:17.937314806+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T11:17:22.260374927+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:17:22.262413339+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T11:17:22.411584567+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:17:22.413904298+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T11:17:23.334509249+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:17:23.336377824+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T11:17:23.589712828+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:17:23.594575669+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T11:17:23.753437714+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:17:23.755528915+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T11:17:23.856620724+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:17:23.860400664+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T11:18:30.50840814+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:18:30.555447541+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T11:18:32.585507231+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T11:18:32.659750108+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-30T11:18:32.65984105+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-30T11:18:32.710402032+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run ws6gnm2l was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-05-30T11:18:33.661464829+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":1.068950801,"error_status":"retrying HTTP 409: run ws6gnm2l was previously created and deleted; try a new run name"}],"total_operations":1}}
+{"time":"2025-05-30T11:18:35.353122487+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run ws6gnm2l was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-05-30T11:18:40.028477921+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run ws6gnm2l was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}

@@ -1,0 +1,33 @@
+{"time":"2025-05-30T02:24:05.611114919+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/marco/projects/flawfinder/comments-categorizer-model/wandb/run-20250530_022405-mkzlfbhp/logs/debug-core.log"}
+{"time":"2025-05-30T02:24:07.505461142+02:00","level":"INFO","msg":"created new stream","id":"mkzlfbhp"}
+{"time":"2025-05-30T02:24:07.505495885+02:00","level":"INFO","msg":"stream: started","id":"mkzlfbhp"}
+{"time":"2025-05-30T02:24:07.505563276+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"mkzlfbhp"}
+{"time":"2025-05-30T02:24:07.506677112+02:00","level":"INFO","msg":"sender: started","stream_id":"mkzlfbhp"}
+{"time":"2025-05-30T02:24:07.506789482+02:00","level":"INFO","msg":"handler: started","stream_id":"mkzlfbhp"}
+{"time":"2025-05-30T02:24:07.757320125+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-30T02:24:15.0545887+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T02:24:25.105445199+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T02:24:30.605433797+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T02:24:30.623409619+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T02:24:33.180811547+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T02:24:33.228643053+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T02:24:35.149466033+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T02:24:35.152904065+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T02:24:37.83845406+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T02:24:39.070837352+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T02:24:39.681141618+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T02:24:39.927421139+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T02:24:42.039349697+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T02:24:42.040494398+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T02:24:46.857546622+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T02:24:46.857858849+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T02:24:48.888056588+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T02:24:49.258767481+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-30T02:24:49.258850341+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-30T02:24:50.144019293+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-30T02:24:50.26128631+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.1171285}],"total_operations":1}}
+{"time":"2025-05-30T02:24:50.324976169+02:00","level":"INFO","msg":"stream: closing","id":"mkzlfbhp"}
+{"time":"2025-05-30T02:24:50.325011386+02:00","level":"INFO","msg":"handler: closed","stream_id":"mkzlfbhp"}
+{"time":"2025-05-30T02:24:50.325018452+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"mkzlfbhp"}
+{"time":"2025-05-30T02:24:50.325035746+02:00","level":"INFO","msg":"sender: closed","stream_id":"mkzlfbhp"}
+{"time":"2025-05-30T02:24:50.325056357+02:00","level":"INFO","msg":"stream: closed","id":"mkzlfbhp"}

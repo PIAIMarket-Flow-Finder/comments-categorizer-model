@@ -1,0 +1,7 @@
+2025-05-30 02:23:50,052 INFO    MainThread:55014 [wandb_init.py:setup_run_log_directory():724] Logging user logs to /home/marco/projects/flawfinder/comments-categorizer-model/wandb/run-20250530_022350-za4g7gco/logs/debug.log
+2025-05-30 02:23:50,052 INFO    MainThread:55014 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to /home/marco/projects/flawfinder/comments-categorizer-model/wandb/run-20250530_022350-za4g7gco/logs/debug-internal.log
+2025-05-30 02:23:50,052 INFO    MainThread:55014 [wandb_init.py:init():852] calling init triggers
+2025-05-30 02:23:50,052 INFO    MainThread:55014 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-05-30 02:23:50,052 INFO    MainThread:55014 [wandb_init.py:init():893] starting backend
+2025-05-30 02:23:50,052 INFO    MainThread:55014 [wandb_init.py:init():897] sending inform_init request

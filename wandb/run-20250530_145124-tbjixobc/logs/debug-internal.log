@@ -1,0 +1,25 @@
+{"time":"2025-05-30T14:51:24.597079804+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/marco/projects/flawfinder/comments-categorizer-model/wandb/run-20250530_145124-tbjixobc/logs/debug-core.log"}
+{"time":"2025-05-30T14:51:24.880243283+02:00","level":"INFO","msg":"created new stream","id":"tbjixobc"}
+{"time":"2025-05-30T14:51:24.880282969+02:00","level":"INFO","msg":"stream: started","id":"tbjixobc"}
+{"time":"2025-05-30T14:51:24.88036628+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"tbjixobc"}
+{"time":"2025-05-30T14:51:24.880390293+02:00","level":"INFO","msg":"sender: started","stream_id":"tbjixobc"}
+{"time":"2025-05-30T14:51:24.880425824+02:00","level":"INFO","msg":"handler: started","stream_id":"tbjixobc"}
+{"time":"2025-05-30T14:51:25.140814398+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-30T14:51:25.289972974+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T14:51:25.290002623+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T14:51:25.290004768+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T14:51:25.290006332+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T14:51:25.290007808+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T14:51:25.362600697+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T14:54:38.017439599+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T14:54:38.01800017+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-30T14:54:38.02623876+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-30T14:54:38.037138522+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-30T14:54:38.037172699+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-30T14:54:38.793245323+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-30T14:54:39.052197477+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.258860983}],"total_operations":1}}
+{"time":"2025-05-30T14:54:39.087234995+02:00","level":"INFO","msg":"stream: closing","id":"tbjixobc"}
+{"time":"2025-05-30T14:54:39.087254792+02:00","level":"INFO","msg":"handler: closed","stream_id":"tbjixobc"}
+{"time":"2025-05-30T14:54:39.087263087+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tbjixobc"}
+{"time":"2025-05-30T14:54:39.08728888+02:00","level":"INFO","msg":"sender: closed","stream_id":"tbjixobc"}
+{"time":"2025-05-30T14:54:39.087332313+02:00","level":"INFO","msg":"stream: closed","id":"tbjixobc"}

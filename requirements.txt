@@ -2,5 +2,10 @@ requests
 httpx
 matplotlib
 dvc
-joblib
-xgboost
+pandas
+xgboost 
+scikit-learn
+numpy
+wandb
+scikit-optimize
+nbformat
